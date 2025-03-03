@@ -5306,7 +5306,7 @@ const defaultOptions = {
 };
 {
   defaultOptions.defaultUrl = {
-    value: "guangzi/光子产业.pdf",
+    value: "zhongka1/重卡产业.pdf",
     kind: OptionKind.VIEWER
   };
   defaultOptions.sandboxBundleSrc = {
